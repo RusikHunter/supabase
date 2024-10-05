@@ -1,0 +1,17 @@
+@import "fonts.scss",
+"globals.scss",
+"keyframes.scss",
+"media.scss",
+"normalize.scss",
+"mixins.scss",
+"utils.scss",
+"variables.scss";
+
+@import "blocks/header.scss",
+"blocks/burger.scss",
+"blocks/storage.scss",
+"blocks/dashboard.scss",
+"blocks/simple.scss",
+"blocks/integration.scss",
+"blocks/build.scss",
+"blocks/footer.scss";
